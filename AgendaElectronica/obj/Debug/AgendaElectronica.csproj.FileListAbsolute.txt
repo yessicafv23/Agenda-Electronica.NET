@@ -1,0 +1,10 @@
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.exe.config
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.exe
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.pdb
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.AssemblyReference.cache
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.agenda.resources
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.Properties.Resources.resources
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.GenerateResource.cache
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.exe
+C:\Users\yessf\OneDrive\Documentos\Proyectos .Net\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.pdb
